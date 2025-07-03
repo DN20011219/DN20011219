@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm DN20011219!
 
-<!--
-**DN20011219/DN20011219** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🌱 About Me
+- 🎓 **Student** & lifelong learner
+- 💻 Passionate about **Java** and building backend systems
+- 🗃️ Creator of **tiny-dbms** – a lightweight database management system
+- 📚 Exploring **Vector Database**
+- 🌐 Visit my site: [dingning.tech](http://www.dingning.tech/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📝 Favorite Quote
+> *"You Cannot Find Peace by Avoiding Life."*
+
+## 🚀 Projects
+- **tiny-dbms**: My custom-made, minimal DBMS
+- **SomeQG**: Integrating vector quantization into graph-based ANNS indexes (Unreleased)
+
+## 🌈 Let's Connect!
+Feel free to check out my repositories or reach out!
