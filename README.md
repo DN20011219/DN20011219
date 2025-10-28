@@ -15,6 +15,7 @@ Welcome to my GitHub profile!
 ## 🚀 Projects
 - **tiny-dbms**: My custom-made, minimal DBMS
 - **SomeQG**: Integrating vector quantization into graph-based ANNS indexes (Unreleased)
+- **ODAlib**: A Lightweight and Extremely Fast On-Device Vector Search System (Unreleased)
 
 ## 🌈 Let's Connect!
 Feel free to check out my repositories or reach out!
