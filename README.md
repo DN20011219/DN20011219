@@ -5,7 +5,6 @@ Welcome to my GitHub profile!
 ## 🌱 About Me
 - 🎓 **Student** & lifelong learner
 - 💻 Passionate about **Java** and building backend systems
-- 🗃️ Creator of **tiny-dbms** – a lightweight database management system
 - 📚 Exploring **Vector Database**
 - 🌐 Visit my site: [dingning.tech](http://www.dingning.tech/)
 
