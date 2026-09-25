@@ -3,7 +3,7 @@
 Welcome to my GitHub profile!
 
 ## 🌱 About Me
-- 🎓 **Student** & lifelong learner
+- 🎓 Lifelong learner
 - 💻 Passionate about **Java** and building backend systems
 - 📚 Exploring **Vector Database**
 - 🌐 Visit my site: [dingning.tech](http://www.dingning.tech/)
